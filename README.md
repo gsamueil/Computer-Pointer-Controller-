@@ -166,13 +166,10 @@ The Inference is done on four different devices.
 
 ### Edge Cases
 
-* There will be certain situations that will break your inference flow. For instance, lighting changes or multiple people in the frame. In that cases, if the face is not detected, the error message is logged and collects the next frame and closes the window, to make the project more robust.
-
-* If multiple faces are detected for any given frame, the model is fed with the first detected face to control the mouse pointer. 
 
 ---
 
-*If you faced any issues in building this project, feel free to ask me. Please do suggest new projects that you want me to do next.*
+
 
 *Share this video if you like.*
 https://www.youtube.com/watch?v=6ZZw4IVl4Uo&t=9s
